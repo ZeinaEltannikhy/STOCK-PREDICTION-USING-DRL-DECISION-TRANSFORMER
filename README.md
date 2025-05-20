@@ -27,5 +27,6 @@ git clone https://github.com/yourusername/trading_project.git
 cd trading_project
 pip install -r requirements.txt
 ```
-🏁 How to Run
+## 🏁 How to Run
+
 python train.py
